@@ -23,6 +23,8 @@ The dataset used is the **Young-People Survey (YPS)** dataset, which includes a 
 - **Spending Habits** (e.g., spending on tech, fashion)
 - **Demographic Info** (e.g., gender, age, country)
 
+📥 **[Download the dataset from Kaggle](https://www.kaggle.com/datasets/miroslavsabo/young-people-survey)**
+
 ---
 
 ## 🎯 Project Goals
