@@ -1,16 +1,16 @@
-# 📊 Principal Component Analysis on Young People Survey Dataset
+# Principal Component Analysis on Young People Survey Dataset
 
 This project focuses on the use of **Principal Component Analysis (PCA)** and **K-Means Clustering** to explore and extract insights from a rich, real-world survey dataset.
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 The aim of this project is to simulate a **real-world business scenario** in which a company collects detailed survey responses from over 1,000 individuals. The ultimate goal is to **reduce the complexity of the dataset** (dimensionality reduction) and **identify consumer profiles** (clustering), which can then be used for personalized marketing, product suggestions, or targeted campaigns.
 
 ---
 
-## 📁 Dataset Description
+## Dataset Description
 
 The dataset used is the **Young-People Survey (YPS)** dataset, which includes a wide variety of features related to lifestyle, preferences, and behavior. The main feature groups include:
 
@@ -23,11 +23,11 @@ The dataset used is the **Young-People Survey (YPS)** dataset, which includes a 
 - **Spending Habits** (e.g., spending on tech, fashion)
 - **Demographic Info** (e.g., gender, age, country)
 
-📥 **[Download the dataset from Kaggle](https://www.kaggle.com/datasets/miroslavsabo/young-people-survey)**
+**[Download the dataset from Kaggle](https://www.kaggle.com/datasets/miroslavsabo/young-people-survey)**
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 ### 1. **Dimensionality Reduction**
 - Apply **PCA** to the dataset.
@@ -42,7 +42,7 @@ The dataset used is the **Young-People Survey (YPS)** dataset, which includes a 
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Language:** Python  
 - **Notebook:** Jupyter Notebook  
@@ -53,7 +53,7 @@ The dataset used is the **Young-People Survey (YPS)** dataset, which includes a 
 
 ---
 
-## 📈 Results Summary
+## Results Summary
 
 - Successfully reduced the dataset from **numerous features** to **5 principal components**, preserving over **35% of the variance**.
 - Identified **4 distinct customer segments** using **K-Means**, supported by silhouette score evaluation.
@@ -62,7 +62,7 @@ The dataset used is the **Young-People Survey (YPS)** dataset, which includes a 
 
 ---
 
-## 📂 Repository Content
+## Repository Content
 
 | File | Description |
 |------|-------------|
@@ -71,7 +71,7 @@ The dataset used is the **Young-People Survey (YPS)** dataset, which includes a 
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
    ```bash
@@ -87,7 +87,7 @@ The dataset used is the **Young-People Survey (YPS)** dataset, which includes a 
 
 ---
 
-## 👩‍🔬 Author
+## Author
 
 **Kerem Kose**  
 
